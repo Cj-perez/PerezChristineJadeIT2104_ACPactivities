@@ -1,4 +1,4 @@
-year= input("Enter the year: ")
+year= int(input("Enter the year: "))
 genre = input("Enter the genre: ")
 album = input("Enter the album: " )
 title = input("Enter the song title: ")
