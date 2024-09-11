@@ -1,4 +1,4 @@
-def vowels_string(input_string):
+def Vowels_String(input_string):
     vowels = "aeiouAEIOU"
 
     vowel_list = []
@@ -9,6 +9,6 @@ def vowels_string(input_string):
     return vowel_list
 
 input_string = input("Enter a string: ")
-vowel_list = vowels_string(input_string)
+vowel_list = Vowels_String(input_string)
 print(vowel_list)
 
