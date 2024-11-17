@@ -148,30 +148,9 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 
 ## Sample Output
 Here’s an example of the system in action:  
+<img width="550" height="290" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/1st.png">
+<img width="550" height="290" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/1st.png">
 
-<img width="90" height="50" src="">
-==================================================================
-WELCOME TO DINE TIME: SMART SCHEDULING FOR RESTAURANT RESERVATIONS
-==================================================================
-1.) Make a Reservation
-2.) View All Reservations
-3.) Update a Reservation
-4.) Delete a Reservation
-5.) Exit
-
-Enter your option (1-5): 1
-
-------------------
-Make a Reservation
-------------------
-Enter Your full name: John Doe
-Enter Your email address: john.doe@example.com
-Enter Your phone number: 1234567890
-Enter reservation date |example: 2025-10-23| (YYYY-MM-DD): 2024-12-31
-Enter reservation time  |example: 06:00PM| (HH:MMAM/PM): 07:00PM
-Enter the number of guests: 4
-
-Reservation confirmed for John Doe on 2024-12-31 at 07:00PM for 4 guests at table number 5.
 
 ------
 
