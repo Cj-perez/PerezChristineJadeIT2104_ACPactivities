@@ -1,6 +1,6 @@
 <img width="990" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/INTRO.png">
 
-Table of Contents
+**Table of Contents**
 1. [Project Overview](#project-overview)  
 2. [Key Features](#key-features)  
 3. [How It Works](#how-it-works)  
@@ -69,10 +69,10 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 
     - **SQLite Database Integration**:
         - A relational database `(restaurant.db)` stores customer and reservation information.
-     - Tables:
-        - `Customer`: Stores details like name, email, and phone.
-        - `Reservation`: Tracks reservation dates, times, number of guests, and table numbers.
-   - SQL commands like `CREATE TABLE, INSERT, SELECT, and JOIN` are used to manage data efficiently.
+       - Tables:
+          - `Customer`: Stores details like name, email, and phone.
+          - `Reservation`: Tracks reservation dates, times, number of guests, and table numbers.
+       - SQL commands like `CREATE TABLE, INSERT, SELECT, and JOIN` are used to manage data efficiently.
 
     - **Modular Code**:
         - The project is divided into cohesive classes and functions:
@@ -93,10 +93,10 @@ Built with `SQLite`, it features robust data handling for persistence and includ
         - Sample data population enables immediate testing.
         - Future-proof system with customizable table limits (easily adjustable in the code).
 
-**Libraries**:
-    - `sqlite3`: Lightweight and reliable database handling.  
-    - `datetime`: Ensures reservation times are valid and in the future.  
-    - `abc`: Supports abstract base classes for better code organization.  
+## Libraries:
+  - **sqlite3**: Lightweight and reliable database handling.  
+  - **datetime**: Ensures reservation times are valid and in the future.  
+  - **abc**: Supports abstract base classes for better code organization.  
 
 ------
 
@@ -147,15 +147,52 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 ------
 
 ## Sample Output
-Here’s an example of the system in action:  
-<img width="550" height="290" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/1st.png">
-<img width="550" height="290" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/1st.png">
+Here’s an example of the system in action: 
 
+  **WELCOME PAGE**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/1st.png">
+</p>
+
+   **INFORMATION WHERE USER CAN INPUT THEIR DATA AND RESERVATION**
+<p align="center">
+  <img width="900" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/2nd.png">
+</p>
+
+   **VIEW RESERVATION WHERE USER CAN SEE EACH RESERVATION OF THE RESTAURANT**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/3rd.png">
+</p>
+
+   **UPDATE RESERVATION WHERE USER CAN UPDATE THEIR RESERVATION**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/4th.png">
+</p>
+
+   **IF THE USER UPDATE THEIR RESRVATION THEY CAN CHECK IT TO VIEW RESERVATION**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/5th.png">
+</p>
+
+  **DELETE RESERVATION WHERE USER CAN DELETE THEIR RESERVATION**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/6th.png">
+</p>
+
+  **IF THE USER DELETE THEIR RESRVATION THEY CAN CHECK IT TO VIEW RESERVATION**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/7th.png">
+</p>
+
+   **EXIT IF THE USER IS DONE**
+<p align="center">
+  <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/8th.png">
+</p>
 
 ------
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**( Massachusetts Institute of Technology). It allows others to freely `use, modify, and distribute` the code, provided they include the original license text and copyright notice in their distribution.
 
 ------
 
