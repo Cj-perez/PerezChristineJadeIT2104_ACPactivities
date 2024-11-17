@@ -198,6 +198,6 @@ This project is licensed under the **MIT License**( Massachusetts Institute of T
 
 ## Contact
 For any queries or contributions, reach out:  
-**Email**: dine_time_support@gmail.com  
+**Email**: dineTimeSupport@gmail.com  
 **Phone**: (043) 876-9045  
-**GitHub**: 
+**GitHub**: https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/tree/main/FINALPROJECT
