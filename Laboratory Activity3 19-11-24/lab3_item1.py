@@ -30,6 +30,6 @@ if __name__ == "__main__":
     normalized_roman = roman_numeral.upper()  
     result = roman_to_integer(roman_numeral)
     if isinstance(result, int):
-        print(f"The integer value of '{normalized_roman}' is {result}")
+        print(f"The integer value of '{normalized_roman}' is: {result}")
     else:
         print(result)
