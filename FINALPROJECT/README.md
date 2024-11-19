@@ -100,6 +100,8 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 `This project aligns technology with sustainability for meaningful impact.`
 
 ------
+## Instructions
+------
 
 ## Setup Instructions
 
