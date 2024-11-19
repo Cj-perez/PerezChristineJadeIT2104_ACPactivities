@@ -1,16 +1,11 @@
 <img width="990" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/INTRO.png">
 
 **Table of Contents**
-1. [Project Overview](#project-overview)  
-2. [Key Features](#key-features)  
-3. [How It Works](#how-it-works)  
-4. [Python Concepts and Libraries](#python-concepts-and-libraries)  
-5. [Integration with SDG 12](#integration-with-sdg-12)  
-6. [Setup Instructions](#setup-instructions)  
-7. [Usage Instructions](#usage-instructions)  
-8. [Sample Output](#sample-output)  
-9. [License](#license)  
-10. [Contact](#contact)
+1. [Project Overview](#project-overview)   
+2. [Python Concepts and Libraries](#python-concepts-and-libraries)  
+3. [Integration with SDG 12](#integration-with-sdg-12)  
+4. [Instructions](#setup-instructions)  
+
 
 ------
 
@@ -18,8 +13,6 @@
 `DineTime` is a Python-based, console-driven application designed for restaurant reservation management. Its primary objective is to provide a user-friendly interface for creating, managing, and updating reservations while ensuring efficient use of restaurant space.  
 
 Built with `SQLite`, it features robust data handling for persistence and includes an automated table assignment system to reduce overbooking risks.
-
-------
 
 ## Key Features
 - **Interactive Menu**: Easy-to-use navigation for various functions.  
@@ -29,8 +22,6 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 - **Data Validation**: Ensures reservation times are in the future and inputs are correctly formatted.  
 - **Sample Data**: Preloaded customer and reservation records for testing and demonstration.  
 - **Sustainable Practices**: Aligns with global goals for responsible consumption.
-
-------
 
 ## How It Works
 1. **Database-Driven**:  
@@ -127,8 +118,6 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 3. `Run the program`:
    python dine_time.py
 
-------
-
 ## Usage Instructions
 1. **Start the application** and navigate using the interactive menu:
    `1.) Make a Reservation`
@@ -143,8 +132,6 @@ Built with `SQLite`, it features robust data handling for persistence and includ
    - Number of guests.  
 
 3. Use options 2–4 for viewing, updating, or deleting reservations as needed.
-
-------
 
 ## Sample Output
 Here’s an example of the system in action: 
@@ -188,11 +175,6 @@ Here’s an example of the system in action:
 <p align="center">
   <img width="900" height="450" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/8th.png">
 </p>
-
-------
-
-## License
-This project is licensed under the **MIT License**( Massachusetts Institute of Technology). It allows others to freely `use, modify, and distribute` the code, provided they include the original license text and copyright notice in their distribution.
 
 ------
 
