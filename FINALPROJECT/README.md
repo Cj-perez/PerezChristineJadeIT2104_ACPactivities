@@ -1,14 +1,14 @@
 <img width="990" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/INTRO.png">
 
 **Table of Contents**
-1. [Project Overview](#project-overview)   
-2. [Python Concepts and Libraries](#python-concepts-and-libraries)  
-3. [Integration with SDG 12](#integration-with-sdg-12)  
-4. [Instructions](#setup-instructions)  
+I. [Project Overview](#project-overview)   
+II. [Python Concepts and Libraries](#python-concepts-and-libraries)  
+III. [Integration with SDG 12](#integration-with-sdg-12)  
+IV. [Instructions](#setup-instructions)  
 
 ------
 
-## Project Overview
+## I. Project Overview
 `DineTime` is a Python-based, console-driven application designed for restaurant reservation management. Its primary objective is to provide a user-friendly interface for creating, managing, and updating reservations while ensuring efficient use of restaurant space.  
 
 Built with `SQLite`, it features robust data handling for persistence and includes an automated table assignment system to reduce overbooking risks.
@@ -39,7 +39,7 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 
 ------
 
-## Python Concepts and Libraries
+## II. Python Concepts and Libraries
 ### Core Python Features:
 1. **Object-Oriented Programming (OOP)**:
     - **Abstraction**:  The `Person` and `ReservationBase` classes are abstract classes. They define essential attributes and methods (like `__str__ `in `Person` and `make_reservation` in `ReservationBase`) without implementation. Subclasses (`Customer` and `Reservation`) must implement these methods, allowing the abstract classes to serve as templates.
@@ -90,7 +90,7 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 
 ------
 
-## Integration with SDG 12
+## III. Integration with SDG 12
 **DineTime** actively contributes to `Sustainable Development Goal (SDG) 12: Responsible Consumption and Production`.  
 - **Minimized Waste**: Efficient table allocation prevents overbooking, saving energy and resources.  
 - **Sustainable Management**: Promotes better use of restaurant space and reduces operational inefficiencies.  
@@ -99,7 +99,7 @@ Built with `SQLite`, it features robust data handling for persistence and includ
 `This project aligns technology with sustainability for meaningful impact.`
 
 ------
-## Instructions
+## IV. Instructions
 ------
 
 ## Setup Instructions
