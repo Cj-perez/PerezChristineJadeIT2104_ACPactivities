@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-  - I. [Project Overview](#project-overview)   
+  - I.[Project Overview](#project-overview)   
   - II. [Python Concepts and Libraries](#python-concepts-and-libraries)  
   - III. [Integration with SDG 12](#integration-with-sdg-12)  
-  - IV. [Instructions](#setup-instructions)  
+  - IV. [Instructions](#instructions) 
 
 ------
 
