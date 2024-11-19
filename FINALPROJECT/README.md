@@ -6,7 +6,6 @@
 3. [Integration with SDG 12](#integration-with-sdg-12)  
 4. [Instructions](#setup-instructions)  
 
-
 ------
 
 ## Project Overview
@@ -185,3 +184,5 @@ For any queries or contributions, reach out:
 **Email**: dineTimeSupport@gmail.com  
 **Phone**: (043) 876-9045  
 **GitHub**: https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/tree/main/FINALPROJECT
+
+------
