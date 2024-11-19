@@ -1,5 +1,7 @@
 <img width="990" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/INTRO.png">
 
+------
+
 ## Table of Contents
 
   - I. [Project Overview](#I-project-overview)   
