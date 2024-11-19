@@ -1,7 +1,6 @@
 <img width="990" height="500" src="https://github.com/Cj-perez/PerezChristineJadeIT2104_ACPactivities/blob/main/FINALPROJECT/INTRO.png">
 
 **Table of Contents**
-
 I. [Project Overview](#project-overview)   
 II. [Python Concepts and Libraries](#python-concepts-and-libraries)  
 III. [Integration with SDG 12](#integration-with-sdg-12)  
